@@ -1,1 +1,1 @@
-Sample Perl scritps 
+ Perl scripts  
